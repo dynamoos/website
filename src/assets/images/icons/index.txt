@@ -1,0 +1,43 @@
+.
+├── ai
+│   ├── Langchain.svg
+│   └── Robocorp.svg
+├── backend
+│   ├── Django.svg
+│   ├── Python.svg
+│   └── RestAPI.svg
+├── business-automation
+│   ├── Bizagi.svg
+│   ├── PowerApps.svg
+│   ├── PowerAutomate.png
+│   └── SharePoint.svg
+├── cloud
+│   ├── AWS.svg
+│   └── SAP4Hana.svg
+├── data-visualization
+│   ├── Grafana.svg
+│   ├── Looker.svg
+│   └── PowerBI.svg
+├── databases
+│   ├── MySQL.svg
+│   ├── Postgresql.svg
+│   ├── Redis.svg
+│   └── SqlServer.svg
+├── devops
+│   ├── Docker.svg
+│   ├── DockerCompose.svg
+│   ├── Linux.svg
+│   └── VirtualMachine.svg
+├── enterprise-applications
+│   ├── Odoo.svg
+│   └── SAP4Hana.svg
+├── frontend
+│   ├── CSS.svg
+│   ├── Flutter.svg
+│   ├── HTML.svg
+│   ├── JavaScript.svg
+│   ├── NextJS.svg
+│   └── React.svg
+└── index.txt
+
+10 directories, 31 files

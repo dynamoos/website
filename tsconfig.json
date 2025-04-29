@@ -1,0 +1,46 @@
+{
+	"files": [],
+	"references": [
+		{
+			"path": "./tsconfig.app.json"
+		},
+		{
+			"path": "./tsconfig.node.json"
+		}
+	],
+	"compilerOptions": {
+		"rootDir": ".",
+		"outDir": "./build",
+		"noEmit": true,
+		"declaration": false,
+		"emitDeclarationOnly": false,
+		"target": "ESNext",
+		"jsx": "react-jsx",
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"baseUrl": "src",
+		"isolatedModules": true,
+		"resolveJsonModule": true,
+		"allowJs": false,
+		"checkJs": false,
+		"sourceMap": false,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"useUnknownInCatchVariables": true,
+		"alwaysStrict": true
+	},
+	"exclude": [
+		"node_modules",
+		"build",
+		"**/*.spec.ts",
+		"**/*.test.ts",
+		"**/*.e2e-spec.ts",
+		"**/*.d.ts",
+		"dist"
+	]
+}

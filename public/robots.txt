@@ -1,0 +1,10 @@
+# public/robots.txt
+User-agent: *
+Allow: /
+
+# Bloquear acceso a rutas específicas
+Disallow: /admin/
+Disallow: /api/
+
+# Ubicación del sitemap
+Sitemap: https://dynamoos.pe/sitemap.xml
